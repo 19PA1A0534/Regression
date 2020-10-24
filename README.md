@@ -1,1 +1,1 @@
-# VITBML-EDA2
+# Regression algorithms
